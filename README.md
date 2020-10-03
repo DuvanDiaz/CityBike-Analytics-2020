@@ -81,10 +81,11 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 <td>104.26 MB</td>
 <td>ZIP file</td>
 </tr>
-<tr>
+</tbody>
+</table>
 
 
-* Limitation
+*
 About a 3% of total users for the 2020 period, did not provide their gender when using the citybike service. A lot of them are one time users and not constant members. Overall we can see that the male customer is dominant when using the CityBike service. 
 
 ![alt text](images/genderspring.png)
