@@ -13,9 +13,9 @@ Here we are taking a look at the analysis of the CityBike program in NYC, during
  
 * Click [here](https://public.tableau.com/profile/duvan8801#!/vizhome/CityBikeAnalytics2020/MapsTrendingStartEnd) to view completed dashboard
 
-![1-Logo](images/peakhours.png)
+![1-Logo](images/peakhours.PNG)
 
-![alt text](images/topbottom10.png)
+![alt text](images/topbottom10.PNG)
 
 ## Data Source
 ![alt text](images/citylogo.png)
@@ -89,7 +89,7 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 
 ![alt text](images/genderspring.PNG)
 
-![alt text](images/gendert.png)
+![alt text](images/gendert.PNG)
 
 
 ## Findings 
@@ -97,34 +97,34 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 
 ### (1) The mayority of CityBike users who are constantly using the service, are male dominant with age range of 20-40 years old. The youngest user registered during 2020 was a 16 year old, and the oldest user was a 94 years old. This demonstrates that regardless the season, or events going on in the city/world, everybody seems to enjoy using the CityBike program which is also a healthier mode of transportation. 
 
-![alt text](images/age.png) 
+![alt text](images/age.PNG) 
 
 ### (2) Even though there was a big decline at the start of COVID-19 quarantine during MARCH 2020; right at the start of summer people saw CityBike as a better method to get around the city instead of using the subway, and that way, they were able to properly practice social distancing. 
 
 
-![alt text](images/use.png)
+![alt text](images/use.PNG)
 
 
 ### (3) The peak hours tend to have a small change based on season, but every season has about the same peak hours, just different user traffic. As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. The most common periods of peak hours are from 7am to 10 am, and the afternoon period which is from 4pm to 8pm. 
 
-![alt text](images/peakhours.png)
-![alt text](images/springpeak.png)
-![alt text](images/summerpeak.png)
+![alt text](images/peakhours.PNG)
+![alt text](images/springpeak.PNG)
+![alt text](images/summerpeak.PNG)
 
 ### (4) The Bike stations tend to constantly change popularity according to multiple factors, like seasons, weather, weekday/weekend use, events in the area, etc...
 
-![alt text](images/popular.png)
+![alt text](images/popular.PNG)
 
 
 ## Map visualization for city officials
 
 * Here we can see the stations that tend to be more popular to start and end a ride, amongst all the 5 boroughs, plus some bike stations that are located in Hoboken NJ, where some users decided to end their trip there. 
 
-![alt text](images/mapstart.png)
-![alt text](images/mapend.png)
+![alt text](images/mapstart.PNG)
+![alt text](images/mapend.PNG)
 
 ## Technology Used
 
-![alt text](images/tableaulogo.png)
-![alt text](images/jupyterlogo.png)
+![alt text](images/tableaulogo.PNG)
+![alt text](images/jupyterlogo.PNG)
 
