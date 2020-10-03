@@ -1,14 +1,4 @@
 
-
-## This time we are looking at the analysis of CityBike rides during this year, and specifically we will be looking at some of the effects that COVID 19 has had on the CityBike service. 
-
-### SHeet 2: We can look at the bif dip in useage of the service, starting in March and lasting untill the start of the summer in MAy. 
-
-### Sheet Spring Peak Hours: The dip compared to the other peak hours are affected because of coronavirus. MORE ON THIS
-
-
-
-
 # CityBike Analytics (2020)
 
 ![1-Logo](images/covidcity.jpg)
