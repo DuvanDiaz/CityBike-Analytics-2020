@@ -124,6 +124,6 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 
 ## Technology Used
 
-![alt text](images/tableaulogo.PNG)
-![alt text](images/jupyterlogo.PNG)
+![alt text](images/tableaulogo.png)
+![alt text](images/jupyterlogo.png)
 
