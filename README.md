@@ -3,7 +3,7 @@
 
 ![1-Logo](images/covidcity.jpg)
 
-<p align="center">
+<p>
   <a href="#data-source">Data Source</a> •
   <a href="#findings">Findings</a> •
   <a href="#technology-Used">Technology Used</a>
@@ -85,8 +85,7 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 </table>
 
 
-*
-About a 3% of total users for the 2020 period, did not provide their gender when using the citybike service. A lot of them are one time users and not constant members. Overall we can see that the male customer is dominant when using the CityBike service. 
+* About a 3% of total users for the 2020 period, did not provide their gender when using the citybike service. A lot of them are one time users and not constant members. Overall we can see that the male customer is dominant when using the CityBike service. 
 
 ![alt text](images/genderspring.png)
 
@@ -96,11 +95,11 @@ About a 3% of total users for the 2020 period, did not provide their gender when
 ## Findings 
 
 
-#### (1) The mayority of CityBike users who are constantly using the service, are male dominant with age range of 20-40 years old. The youngest user registered during 2020 was a 16 year old, and the oldest user was a 94 years old. This demonstrates that regardless the season, or events going on in the city/world, everybody seems to enjoy using the CityBike program which is also a healthier mode of transportation. 
+### (1) The mayority of CityBike users who are constantly using the service, are male dominant with age range of 20-40 years old. The youngest user registered during 2020 was a 16 year old, and the oldest user was a 94 years old. This demonstrates that regardless the season, or events going on in the city/world, everybody seems to enjoy using the CityBike program which is also a healthier mode of transportation. 
 
 ![alt text](images/age.png) 
 
-#### (2) Even though there was a big decline at the start of COVID-19 quarantine during MARCH 2020; right at the start of summer people saw CityBike as a better method to get around the city instead of using the subway, and that way, they were able to properly practice social distancing. 
+### (2) Even though there was a big decline at the start of COVID-19 quarantine during MARCH 2020; right at the start of summer people saw CityBike as a better method to get around the city instead of using the subway, and that way, they were able to properly practice social distancing. 
 
 
 ![alt text](images/use.png)
