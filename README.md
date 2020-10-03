@@ -13,7 +13,6 @@ Here we are taking a look at the analysis of the CityBike program in NYC, during
  
 * Click [here](https://public.tableau.com/profile/duvan8801#!/vizhome/CityBikeAnalytics2020/MapsTrendingStartEnd) to view completed dashboard
 
-![1-Logo](images/peakhours.PNG)
 
 ![alt text](images/topbottom10.PNG)
 
